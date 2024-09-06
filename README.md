@@ -14,9 +14,8 @@ Este projeto foi desenvolvido como parte de uma avaliação extensionista, com o
 ## Tecnologias Utilizadas
 
 - **Python**
-- **Tkinter** (para a interface gráfica)
-- **SQLite** (para o banco de dados)
-
+- **Tkinter** 
+- **SQLite** 
 ## Objetivo
 
 Este projeto foi desenvolvido para atender às necessidades de digitalização de controle de estoque em um mercado local. O foco está em oferecer um sistema amigável, simples e eficiente, que possibilite o gerenciamento básico de produtos e vendas, além de fornecer um relatório claro de todas as transações realizadas.
